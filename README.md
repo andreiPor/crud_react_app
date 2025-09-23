@@ -22,8 +22,6 @@ A simple React application to manage students with Create, Read, Update, and Del
 - Install dependencies: `npm install`  
 - Start the application: `npm start`  
 
-The app will open at [http://localhost:3000](http://localhost:3000)
-
 ## 🗒️ Notes
 - The `db.js` file contains sample student data.  
-- `node_modules/` is excluded via `.gitignore`.  
+- `node_modules/` is excluded 
