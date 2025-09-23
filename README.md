@@ -34,4 +34,3 @@ The app will open at http://localhost:3000
 
 - The db.js file contains sample student data.
 - node_modules/ is excluded via .gitignore.
-

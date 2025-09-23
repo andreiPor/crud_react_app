@@ -1,0 +1,19 @@
+/* studentsTable */
+
+.container {
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #fff;
+}
+
+.students_records,
+.newstudent {
+    text-align: center;
+    color: black;
+    font-family: cursive;
+    font-size: 2rem;
+    margin-bottom: 20px;
+
+}

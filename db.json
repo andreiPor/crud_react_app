@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "peter",
+      "place": "Canada",
+      "phone": "121213333"
+    },
+    {
+      "id": "2",
+      "name": "Sonya",
+      "place": "Columbia",
+      "phone": "363111111"
+    },
+    {
+      "id": "3",
+      "name": "David",
+      "place": "Barcelona",
+      "phone": "345445452"
+    },
+    {
+      "id": "4",
+      "name": "Sofia",
+      "place": "Bulgaria",
+      "phone": "653332233"
+    },
+    {
+      "id": "5",
+      "name": "gregory",
+      "place": "argentina",
+      "phone": "222211111"
+    }
+  ]
+}
