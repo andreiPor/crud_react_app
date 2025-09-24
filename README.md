@@ -18,7 +18,7 @@ A simple React application to manage students with Create, Read, Update, and Del
 
 ## 🚀 Installation & Run the App
 - Clone the repository: `git clone <YOUR_REPO_URL>`  
-- Navigate to the project folder: `cd crud_react_app`  
+- Navigate to the project folder: `cd -- project name`  
 - Install dependencies: `npm install`  
 - Start the application: `npm start`  
 
